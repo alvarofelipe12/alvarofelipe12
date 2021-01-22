@@ -9,20 +9,20 @@
 ```typescript
 import SoftwareEngineer from 'alvarofelipe12';
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
+export class GithubProfile implements OnInit() {
+
+ngOnInit(): void {
+        this.getBio();
 }
 
 getBio(): Bio {
-	return Bio {
-		"- ⚡ Quick bio:":                    "Coding is my hobby and then evolved into \"work\", bike enthusiast, love travels and i'm a metalhead with some carranga roots",
-		"- 🔭 I’m currently working on":      "Growth Acceleration Partners as an Advanced Software Engineer",
-		"- 🌱 I’m currently learning":        "React, Swift and GraphQL --- Sharpening my Front End Skills for the MEAN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Angular and Ionic related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning xD",
-		"- 💬 Ask me about":                  "Angular"
+	return {
+		⚡quickBio: "Coding is my hobby and then evolved into \"work\", bike enthusiast, love travels and i'm a metalhead with some carranga roots",
+		🔭currentlyWorkingOn: "Growth Acceleration Partners as an Advanced Software Engineer",
+		🌱currentlyLearning: "React, Swift and GraphQL --- Sharpening my Front End Skills for the MEAN stack (Personal goal)",
+		👯lookingToCollaborateOn: "Angular and Ionic related projects",
+		🤔lookingForHelpWith: "Anything related to what I am currently learning xD",
+		💬askMeAbout: "Angular"
 	}
 }
 ```
@@ -77,8 +77,6 @@ getBio(): Bio {
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alvarofelipe12&show_icons=true&theme=synthwave" alt="alvarofelipe12 :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 <!--
 **alvarofelipe12/alvarofelipe12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
