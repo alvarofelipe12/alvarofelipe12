@@ -18,8 +18,8 @@ ngOnInit(): void {
 getBio(): Bio {
 	return {
 		⚡quickBio: "Coding is my hobby and then evolved into \"work\", bike enthusiast, love travels and i'm a metalhead with some carranga roots",
-		🔭currentlyWorkingOn: "Growth Acceleration Partners as an Advanced Software Engineer",
-		🌱currentlyLearning: "React, Swift and GraphQL --- Sharpening my Front End Skills for the MEAN stack (Personal goal)",
+		🔭currentlyWorkingOn: "Nu Bügel as Clerk",
+		🌱currentlyLearning: "Kotlin, Swift, and React Native",
 		👯lookingToCollaborateOn: "Angular and Ionic related projects",
 		🤔lookingForHelpWith: "Anything related to what I am currently learning xD",
 		💬askMeAbout: "Angular"
