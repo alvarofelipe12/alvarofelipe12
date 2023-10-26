@@ -1,9 +1,5 @@
 ### Hi there 👋, I'm Felipe
 
-<a href="https://dev.to/alvarofelipe12">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Alvaro Felipe García Méndez's DEV Community Profile" height="30" width="30">
-</a>
-
 <h2 align="center">About me</h2>
 
 ```typescript
@@ -49,6 +45,10 @@ getBio(): Bio {
   <a href="https://medium.com/@alvarofelipe12">
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Álvaro Felipe García Méndez's Medium Profile" height="30" width="30">
   </a>
+
+  <a href="https://dev.to/alvarofelipe12">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Alvaro Felipe García Méndez's DEV Community Profile" height="30" width="30">
+  </a>
   
   <a href="https://www.youtube.com/channel/UCx642a6zMGyCvICGP6YwHfA">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Álvaro Felipe García Méndez's YouTube Channel" height="30" width="30">
@@ -77,17 +77,3 @@ getBio(): Bio {
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alvarofelipe12&show_icons=true&theme=synthwave" alt="alvarofelipe12 :: Profile Stats" /></p>
-<!--
-**alvarofelipe12/alvarofelipe12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
