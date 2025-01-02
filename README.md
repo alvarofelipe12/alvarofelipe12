@@ -26,32 +26,32 @@ getBio(): Bio {
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://dev.to/alvarofelipe12">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Álvaro Felipe García Méndez's DEV Community Profile" height="30" width="30">
+  <a href="https://alvarofelipe12.github.io/portfolio/">
+    <img src="https://alvarofelipe12.github.io/portfolio/assets/images/logo.png" title="Portfolio" alt="Portfolio" height="30" width="30">
   </a>
 
   <a href="https://www.linkedin.com/in/afgarciam/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Álvaro Felipe García Méndez's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="Álvaro Felipe García Méndez's LinkedIn Profile" alt="Álvaro Felipe García Méndez's LinkedIn Profile" height="30" width="30">
   </a>
 
   <a href="https://stackoverflow.com/users/5360905/takatalvi">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Álvaro Felipe García Méndez's Stack Overflow Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" title="Álvaro Felipe García Méndez's Stack Overflow Profile" alt="Álvaro Felipe García Méndez's Stack Overflow Profile" height="30" width="30">
   </a>
 
   <a href="https://stackexchange.com/users/6991951/takatalvi">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Álvaro Felipe García Méndez's Stack Exchange Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" title="Álvaro Felipe García Méndez's Stack Exchange Profile" alt="Álvaro Felipe García Méndez's Stack Exchange Profile" height="30" width="30">
   </a>
   
   <a href="https://medium.com/@alvarofelipe12">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Álvaro Felipe García Méndez's Medium Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" title="Álvaro Felipe García Méndez's Medium Profile" alt="Álvaro Felipe García Méndez's Medium Profile" height="30" width="30">
   </a>
 
   <a href="https://dev.to/alvarofelipe12">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Alvaro Felipe García Méndez's DEV Community Profile" height="30" width="30">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" title="Alvaro Felipe García Méndez's DEV Community Profile" alt="Alvaro Felipe García Méndez's DEV Community Profile" height="30" width="30">
   </a>
   
   <a href="https://www.youtube.com/channel/UCx642a6zMGyCvICGP6YwHfA">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Álvaro Felipe García Méndez's YouTube Channel" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" title="Álvaro Felipe García Méndez's YouTube Channel" alt="Álvaro Felipe García Méndez's YouTube Channel" height="30" width="30">
   </a>
 </p>
 
