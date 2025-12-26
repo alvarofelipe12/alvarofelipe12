@@ -68,12 +68,12 @@ getBio(): Bio {
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{alvarofelipe12}/count.svg" alt="alvarofelipe12 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.deno.dev/{alvarofelipe12}/count.svg" alt="alvarofelipe12 :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarofelipe12&langs_count=10&theme=tokyonight&layout=compact" alt="alvarofelipe12 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alvarofelipe12&langs_count=10&theme=tokyonight&layout=compact" alt="alvarofelipe12 :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alvarofelipe12&show_icons=true&theme=synthwave" alt="alvarofelipe12 :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=alvarofelipe12&show_icons=true&theme=synthwave" alt="alvarofelipe12 :: Profile Stats" /></p>
